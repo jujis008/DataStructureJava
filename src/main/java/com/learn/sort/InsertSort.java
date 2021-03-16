@@ -1,4 +1,4 @@
-package sort;
+package com.learn.sort;
 
 public class InsertSort {
     public static int[] insertSort(int[] array) {

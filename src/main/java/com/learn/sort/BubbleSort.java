@@ -1,4 +1,4 @@
-package sort;
+package com.learn.sort;
 
 public class BubbleSort {
     public static int[] bubbleSort(int[] array) {

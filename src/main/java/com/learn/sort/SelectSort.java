@@ -1,4 +1,4 @@
-package sort;
+package com.learn.sort;
 
 public class SelectSort {
     public static int[] selectSort(int[] array) {
